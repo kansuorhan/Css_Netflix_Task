@@ -1,6 +1,6 @@
 
 
-<h1> Netflix Responsive Website Copy Task</h1>
+<h1> Netflix Responsive Website Copy Task v2</h1>
 
 <p> Most Popular Movie - Series Website Platform Front-End Task</p>
 
